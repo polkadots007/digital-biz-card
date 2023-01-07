@@ -1,5 +1,9 @@
+#info, #about, #interests {
+    background-color: #1A1B21;
+}
+
 #info {
-    width: 300px;
+    width: 350px;
     height:auto;
     text-align: center
 }
